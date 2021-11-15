@@ -1,0 +1,56 @@
+#######################################
+# Syntax Coloring Map For NixdorfVFD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1, LITERAL1)
+#######################################
+
+NixdorfVFD	KEYWORD1
+write_type	LITERAL1
+code_page	LITERAL1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setCodePage	KEYWORD2
+clear	KEYWORD2
+home	KEYWORD2
+deleteToEOL	KEYWORD2
+setCursor	KEYWORD2
+cursorX	KEYWORD2
+cursorYKEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CLR_SC	LITERAL1
+HOME	LITERAL1
+DEL_TO_EOL	LITERAL1
+CP_SEL	LITERAL1
+
+CP_USA	LITERAL1
+CP_FRANCE	LITERAL1
+CP_GERMANY	LITERAL1
+CP_GB	LITERAL1
+CP_DENMARK1	LITERAL1
+CP_SWEDEN	LITERAL1
+CP_ITALY	LITERAL1
+CP_SPAIN1	LITERAL1
+CP_JAPAN	LITERAL1
+CP_NORWAY	LITERAL1
+CP_DENMARK2	LITERAL1
+CP_SPAIN2	LITERAL1
+CP_LAT_AM	LITERAL1
+CP_437	LITERAL1
+CP_850	LITERAL1
+CP_852	LITERAL1
+CP_857	LITERAL1
+CP_866	LITERAL1
+CP_737	LITERAL1
+CP_862	LITERAL1
+CP_IBM813	LITERAL1
+CP_KATAKANA	LITERAL1
