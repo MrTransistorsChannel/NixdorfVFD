@@ -1,5 +1,7 @@
 # NixdorfVFD
-An Arduino library for interfacing to Nixdorf BA63 VFD customer displays
+An Arduino library for interfacing to Nixdorf BA63 VFD customer displays.
+
+Currently has support for English and Russian code pages with native conversion from utf-8 string.
 
 # Text circuit
 1)  Add J3 jumper to the display to disable parity check, remove all other jumpers from the settings panel
