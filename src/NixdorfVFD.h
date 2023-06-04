@@ -1,6 +1,8 @@
 #ifndef NixdorfVFD_h
 #define NixdorfVFD_h
 
+#include <Arduino.h>
+
 /********** CONTROL SEQUENCES **********/
 #define CLR_SC              "\e[2J"
 #define HOME                "\e[1;1H"
