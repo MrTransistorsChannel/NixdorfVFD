@@ -5,6 +5,8 @@ uint8_t NixdorfVFD::toSelectedCodePage(uint8_t c){
     switch(_codePage){
         case CP_866:
             return to_cp866(c);
+        default:
+            return c;
     }
 }
 
